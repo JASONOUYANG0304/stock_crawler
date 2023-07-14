@@ -1,0 +1,9 @@
+<params>
+  <url>https://www.twse.com.tw/rwd/zh/afterTrading/STOCK_DAY</url>
+  <stockNo>6669</stockNo>
+  <startYear>2020</startYear>
+  <startMonth>1</startMonth>
+  <endYear>2020</endYear>
+  <endMonth>6</endMonth>
+  <excelname>緯穎</excelname>
+</params>
